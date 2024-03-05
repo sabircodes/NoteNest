@@ -5,18 +5,23 @@ Welcome to the captivating universe of **BlogApp**, a digital haven where words 
 ### 🏠 Step into the Grand Foyer: The Home Page
 As you step into the world of BlogApp, you'll be greeted by a majestic home page that beckons you to embark on a literary adventure. The carefully crafted design, reminiscent of an inviting library, sets the tone for the enriching journey that lies ahead.
 
-![Blogapp1](https://github.com/sabircodes/blogapp/assets/93681489/f0405c79-7b9f-41a0-bd76-cdd85728e11a)
+![Blogapp1](![image](https://github.com/sabircodes/NoteNest/assets/93681489/68c3bf1b-36a9-4b9f-809f-11f9a2476592)
+
 
 ### 🔐 Unveiling the Inner Sanctum: Login and Signup Pages
 Your journey begins by crossing the threshold into the inner sanctum of BlogApp – the login and signup pages. These pages are your gateways to a world where your unique voice finds its home. With elegant and intuitive design, they ensure a seamless entry into the realm of creativity.
 
-![Blogapp2](https://github.com/sabircodes/blogapp/assets/93681489/c05ae675-99d8-4808-88ee-47129ffa6d4e)
+![image](https://github.com/sabircodes/NoteNest/assets/93681489/aaaa5729-4b5c-4f6a-9bdf-033974c8eb34)
+![image](https://github.com/sabircodes/NoteNest/assets/93681489/ea840922-fe23-474c-9a06-772496348157)
+
+
 ![Blogapp3](https://github.com/sabircodes/blogapp/assets/93681489/2475a66c-44b6-4d6e-b8e6-df5be1240002)
 
 ### 📖 Crafting Stories: The Post Creation Page
 Beyond the login, a world of possibilities awaits you. The post creation page is your canvas, where you paint your thoughts with words. Feel the surge of inspiration as you pen down your ideas, and watch them come to life. This page empowers you to share your stories, insights, and experiences with the world.
 
-![image](https://github.com/sabircodes/blogapp/assets/93681489/a9ee1fc9-d976-4e06-8fe5-5007d3fd06b4)
+![image](https://github.com/sabircodes/NoteNest/assets/93681489/f84ae495-b58b-47ca-92d5-fdad76e6fe93)
+
 
 ### 🚀 Setting Sail: Launching BlogApp
 Your voyage into the realm of BlogApp begins with a few simple steps:
